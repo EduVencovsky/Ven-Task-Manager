@@ -3,7 +3,10 @@ Ven Task Manager
 
 ## Methods
 
-### `ven init` 
+````````
+ven init
+````````
+
 Starts ven task manager    
 1.  Check if ven.json already exists in current folder
     *  *Error message* if already exists
@@ -12,7 +15,6 @@ Starts ven task manager
     *  user email
     *  money per hour (optional)
 3.  Creates `ven.json` file
-
 
 ## Data 
 
