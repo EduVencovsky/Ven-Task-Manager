@@ -4,14 +4,14 @@ Ven Task Manager
 ## Methods
 
 ### `ven init` 
-Starts ven task manager
-    1.  Check if ven.json already exists in current folder
-        *  *Error message* if already exists
-    2.  Ask config questions
-        *  user name
-        *  user email
-        *  money per hour (optional)
-    3.  Creates `ven.json` file
+Starts ven task manager    
+1.  Check if ven.json already exists in current folder
+    *  *Error message* if already exists
+2.  Ask config questions
+    *  user name
+    *  user email
+    *  money per hour (optional)
+3.  Creates `ven.json` file
 
 
 ## Data 
@@ -37,7 +37,7 @@ Starts ven task manager
 
 #### :x: Create `ven_installer.exe`
 #### :x: Create `ven.exe`
-    `ven.py` code recompiled to `ven.exe`
+`ven.py` code recompiled to `ven.exe`
 #### :x: Association with `git`
 
 ### Methods
