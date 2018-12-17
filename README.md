@@ -42,16 +42,16 @@ Starts ven task manager
 
 ### Methods
 
-|   Methods   |   Progress  |    Docs     |
-| :---------: | :---------: | :---------: |
-| init        | [_________] | [#########] |
-| username    | not started | not started |
-| useremail   | not started | not started |
-| start       | not started | not started |
-| pause       | not started | not started |
-| resume      | not started | not started |
-| end         | not started | not started |
-| today       | not started | not started |
-| status      | not started | not started |
-| export      | not started | not started |
+|    Methods    |    Progress   |     Docs      |
+|  :---------:  |  :---------:  |  :---------:  |
+|  init         | `[_________]` | `[#########]` |
+|  username     | `not started` | `not started` |
+|  useremail    | `not started` | `not started` |
+|  start        | `not started` | `not started` |
+|  pause        | `not started` | `not started` |
+|  resume       | `not started` | `not started` |
+|  end          | `not started` | `not started` |
+|  today        | `not started` | `not started` |
+|  status       | `not started` | `not started` |
+|  export       | `not started` | `not started` |
 
