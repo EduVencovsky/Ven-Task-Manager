@@ -18,18 +18,18 @@ Starts ven task manager
 
 ### `ven.json` structure
 
-{
-    'username': ...string ,
-    'useremail': ...string ,
-    'days' [
-        '*task_id*': {
-            'isCompleted': *true/false*
-            'time': [*begin_time*, *pause_time*, ...dataTime ]
-        },
-        ...dict
-    ],
-    'money': ...0.2float
-}
+    {
+        'username': ...string ,
+        'useremail': ...string ,
+        'days' [
+            '*task_id*': {
+                'isCompleted': *true/false*
+                'time': [*begin_time*, *pause_time*, ...dataTime ]
+            },
+            ...dict
+        ],
+        'money': ...0.2float
+    }
 
 ## TODO 
 
