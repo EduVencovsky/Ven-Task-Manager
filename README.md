@@ -3,10 +3,7 @@ Ven Task Manager
 
 ## Methods
 
-````````
-ven init
-````````
-
+### `ven init` 
 Starts ven task manager    
 1.  Check if ven.json already exists in current folder
     *  *Error message* if already exists
