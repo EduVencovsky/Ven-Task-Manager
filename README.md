@@ -22,8 +22,9 @@ Starts ven task manager
         'useremail': ...string ,
         'days' [
             '*task_id*': {
-                'isCompleted': *true/false*
-                'time': [*begin_time*, *pause_time*, ...dataTime ]
+                'isCompleted': *true/false*,
+                'time': [*begin_time*, *pause_time*, ...dataTime ],
+                'description': ...string
             },
             ...dict
         ],
@@ -34,6 +35,7 @@ Starts ven task manager
 
 ### Functionalities
 
+#### :x: Create the best way to validate args
 #### :x: Create `ven_installer.exe`
 #### :x: Create `ven.exe`
 `ven.py` code recompiled to `ven.exe`
