@@ -49,10 +49,42 @@ Starts ven task manager
 |  username     | `not started` | `not started` |
 |  useremail    | `not started` | `not started` |
 |  start        | `not started` | `not started` |
+|  finish       | `not started` | `not started` |
+|  run          | `not started` | `not started` |
 |  pause        | `not started` | `not started` |
-|  resume       | `not started` | `not started` |
-|  end          | `not started` | `not started` |
+|  switch       | `not started` | `not started` |
 |  today        | `not started` | `not started` |
 |  status       | `not started` | `not started` |
 |  export       | `not started` | `not started` |
+
+
+### ven init
+
+Creates ven file that stores everything
+
+### ven start
+
+Starts a new task
+
+Opens console to fill task data 
+
+Task data should be made by a configurable file that can be of any type
+
+### ven finish 
+
+Finishes current task
+
+### ven run
+
+Resumes count of some task
+
+### ven pause
+
+Pauses count of some task
+
+### ven switch
+
+Switch to another task / creates new task and switch to (maybe could be a parameter)
+
+
 
